@@ -1,9 +1,3 @@
-Mira el pantallazo que me has mandado antes (la última imagen): GitHub pilla la URL de un vídeo subido en un issue o comentario y la convierte automáticamente en un reproductor si está **ella sola en su propia línea**, pero en cuanto le pones texto al lado, una etiqueta HTML de cierre rara o lo metes de cierta manera, se rompe y lo trata como texto plano o enlace simple.
-
-Para que GitHub pinte el vídeo como un reproductor integrado y el texto quede abajo correctamente, la regla de oro es que **la URL del vídeo vaya completamente sola en su línea, rodeada de saltos de línea limpios**, sin mezclar etiquetas extrañas como `<br>` dentro de la numeración de Markdown que confunden al parser.
-
-Aquí tienes el formato exacto que funciona siempre en GitHub para esto:
-
 1.Web landing:
 
 [https://github.com/user-attachments/assets/8eeeb004-7068-4a2e-89a9-e3d847f3de79](https://github.com/user-attachments/assets/8eeeb004-7068-4a2e-89a9-e3d847f3de79)
@@ -46,7 +40,7 @@ Análisis detallado del nivel de cumplimiento frente a las normativas de segurid
 
 8.Firewall:
 
-[PEGA TU ENLACE AQUI]
+Video no encontrado
 
 Administración de reglas de red para bloquear conexiones no deseadas y blindar los puertos.
 
