@@ -70,7 +70,7 @@ Monitorización en vivo de los procesos activos y el rendimiento de los componen
 
 12.Inspeccion del sistema 2:
 https://github.com/user-attachments/assets/584931ec-096b-40e8-bf8f-d057896bbbf5
-Comprobación pormenorizada de los registros del sistema operativo y sus servicios asociados.
+Comprobación a fondo de los registros del sistema operativo y sus servicios asociados.
 
 
 
