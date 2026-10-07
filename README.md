@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/cc069b18-fd9a-4d27-bccb-898172a64cd2
 
 8.Firewall:
 
-[PEGA TU ENLACE AQUI]
+Vídeo no disponible
 
 
 
