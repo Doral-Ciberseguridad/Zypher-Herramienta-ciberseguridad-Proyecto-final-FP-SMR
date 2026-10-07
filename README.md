@@ -66,9 +66,9 @@ Administración de reglas de red para bloquear conexiones no deseadas y blindar 
 
 
 
-9.Analisis de vulnerabilidad:
+9.Analisis de vulnerabilidades:
 
-https://github.com/user-attachments/assets/6fe15712-ad69-4b07-a2de-3d826b982ad3
+https://github.com/user-attachments/assets/11479042-a625-4db6-8754-241e1d71b09b
 
 Escaneo exhaustivo en busca de puntos débiles en el software para anticiparse a posibles brechas.
 
@@ -76,7 +76,7 @@ Escaneo exhaustivo en busca de puntos débiles en el software para anticiparse a
 
 10.Analisis antimalware:
 
-https://github.com/user-attachments/assets/09a61153-f440-452f-8538-49a40d4baa48
+https://github.com/user-attachments/assets/6fcb1c43-6233-4cec-9c4e-24ac498773fb
 
 Inspección profunda de ficheros para detectar códigos maliciosos o amenazas ocultas en el equipo.
 
