@@ -44,90 +44,108 @@ https://github.com/user-attachments/assets/cc069b18-fd9a-4d27-bccb-898172a64cd2
 
 
 
+8.Firewall:
 
-9.Firewall:
 [PEGA TU ENLACE AQUI]
 
 
 
-10.Analisis de vulnerabilidad:
-[PEGA TU ENLACE AQUI]
+9.Analisis de vulnerabilidad:
+
+https://github.com/user-attachments/assets/c8e7e452-a806-4b3a-92aa-a44db96d5137
 
 
 
-11.Analisis antimalware:
-[PEGA TU ENLACE AQUI]
+10.Analisis antimalware:
+
+https://github.com/user-attachments/assets/6fe15712-ad69-4b07-a2de-3d826b982ad3
 
 
 
-12.Inspeccion del sistema 1:
-[PEGA TU ENLACE AQUI]
+11.Inspeccion del sistema 1:
+
+https://github.com/user-attachments/assets/09a61153-f440-452f-8538-49a40d4baa48
 
 
 
 12.Inspeccion del sistema 2:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/584931ec-096b-40e8-bf8f-d057896bbbf5
 
 
 
 13.Monitorizacion de eventos:
-[PEGA TU ENLACE AQUI]
+
+<img width="2515" height="1302" alt="Image" src="https://github.com/user-attachments/assets/aad179b8-5a65-4b1e-b148-26474f111995" />
 
 
 
 14.Monitorizacion de archivos:
-[PEGA TU ENLACE AQUI]
+
+<img width="1126" height="800" alt="Image" src="https://github.com/user-attachments/assets/6ad048cb-a600-4936-99c8-6b199a2a0fce" />
 
 
 
 15.Categoria Actualizaciones:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/cd0c22a1-7956-4301-9abf-1827ebb48280
 
 
 
 16.Copia en la nube - Parte 1:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/4ac6025a-64a6-4efa-8394-c753af94134b
 
 
 
 17.Copia en la nube - Parte 2:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/5b4bd8c9-ba89-4394-9ff2-0c7db360350f
 
 
 
 18.Gestor de contraseñas:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/a3e7b2db-af68-4929-90c8-b75f40cf54df
 
 
 
 19.VPN:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/b11be799-6983-48d4-bac8-3c318d603a5c
 
 
 
 20.Navegadores seguros:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/6db09aea-386c-4e61-b2b0-a417ca815b25
 
 
 
 21.Comprobador de filtraciones:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/6d216597-5331-4959-9c31-a1feafac3d72
 
 
 
 22.Proteccion de archivos:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/1f347534-0527-4885-a6d6-80f569dd397b
 
 
 
 23.Salud del sistema Categoria:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/3bd6edb1-c809-4f5e-950c-eac5e609fe2f
 
 
 
 24.Generador de informes:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/2e78170e-be9d-4be2-b24e-0a097fcf92ef
+
 
 
 25.Guia Zypher:
-[PEGA TU ENLACE AQUI]
+
+https://github.com/user-attachments/assets/f1c0f030-b9f7-4943-8e19-249847bbe504
