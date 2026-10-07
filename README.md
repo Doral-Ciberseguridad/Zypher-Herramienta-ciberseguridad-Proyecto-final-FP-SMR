@@ -33,6 +33,8 @@ Visualización de la franja superior con accesos directos al perfil, avisos y es
 
 6.Modulo inicio:
 
+<img width="2134" height="1161" alt="6 Modulo inicio" src="https://github.com/user-attachments/assets/6a268502-6a07-4682-a3be-3c626c131927" />
+
 Panel de control central que resume de un vistazo la salud y seguridad general de la máquina.
 
 7.Modulo CIS Benchmark:
