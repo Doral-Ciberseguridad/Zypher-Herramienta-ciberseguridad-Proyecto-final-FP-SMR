@@ -60,7 +60,7 @@ Análisis detallado del nivel de cumplimiento frente a las normativas de segurid
 
 8.Firewall:
 
-Vídeo no encontrado.
+https://github.com/user-attachments/assets/c2294103-1cd2-4387-b7ed-f87f39d1976a
 
 Administración de reglas de red para bloquear conexiones no deseadas y blindar los puertos.
 
