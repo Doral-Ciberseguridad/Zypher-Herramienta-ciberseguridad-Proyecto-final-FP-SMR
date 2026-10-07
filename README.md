@@ -92,7 +92,9 @@ Monitorización en vivo de los procesos activos y el rendimiento de los componen
 
 12.Inspeccion del sistema 2:
 
-<img width="2515" height="1302" alt="Image" src="https://github.com/user-attachments/assets/aad179b8-5a65-4b1e-b148-26474f111995" />
+<img width="2515" height="1302" alt="12 Inspeccion del sistema 1" src="https://github.com/user-attachments/assets/099050bf-31f6-4b58-b72b-98554bf2ed8a" />
+
+<img width="1126" height="800" alt="12 Inspeccion del sistema 2" src="https://github.com/user-attachments/assets/6bd20f48-4df7-4537-991d-a2175ca2983d" />
 
 Comprobación exhaustiva de los registros del sistema operativo y sus servicios asociados.
 
@@ -100,7 +102,7 @@ Comprobación exhaustiva de los registros del sistema operativo y sus servicios 
 
 13.Monitorizacion de eventos:
 
-<img width="1126" height="800" alt="Image" src="https://github.com/user-attachments/assets/6ad048cb-a600-4936-99c8-6b199a2a0fce" />
+https://github.com/user-attachments/assets/80fb05dd-8fa2-47b7-b731-245320c0e2e7
 
 Vigilancia constante de la actividad del sistema para cazar comportamientos anómalos o sospechosos.
 
@@ -108,7 +110,7 @@ Vigilancia constante de la actividad del sistema para cazar comportamientos anó
 
 14.Monitorizacion de archivos:
 
-https://github.com/user-attachments/assets/cd0c22a1-7956-4301-9abf-1827ebb48280
+https://github.com/user-attachments/assets/2134217d-4feb-4407-befa-13e544871d5f
 
 Control de cambios no autorizados sobre directorios críticos y ficheros protegidos.
 
@@ -116,7 +118,9 @@ Control de cambios no autorizados sobre directorios críticos y ficheros protegi
 
 15.Categoria Actualizaciones:
 
-https://github.com/user-attachments/assets/4ac6025a-64a6-4efa-8394-c753af94134b
+
+https://github.com/user-attachments/assets/f449a25f-25d8-43b0-8e77-11b24e1db0ff
+
 
 Verificación de versiones de software para asegurar que los parches de seguridad estén al día.
 
@@ -124,7 +128,7 @@ Verificación de versiones de software para asegurar que los parches de segurida
 
 16.Copia en la nube - Parte 1:
 
-https://github.com/user-attachments/assets/5b4bd8c9-ba89-4394-9ff2-0c7db360350f
+https://github.com/user-attachments/assets/fa089372-6568-445b-a2eb-fe822e0bc41a
 
 Configuración de la conexión remota para automatizar respaldos fuera de la máquina local.
 
@@ -132,7 +136,7 @@ Configuración de la conexión remota para automatizar respaldos fuera de la má
 
 17.Copia en la nube - Parte 2:
 
-https://github.com/user-attachments/assets/a3e7b2db-af68-4929-90c8-b75f40cf54df
+https://github.com/user-attachments/assets/f636b0a3-22f1-4316-a836-8d1642fe2666
 
 Ejecución de la subida y sincronización de los datos importantes hacia el servidor de destino.
 
@@ -140,7 +144,7 @@ Ejecución de la subida y sincronización de los datos importantes hacia el serv
 
 18.Gestor de contraseñas:
 
-https://github.com/user-attachments/assets/b11be799-6983-48d4-bac8-3c318d603a5c
+https://github.com/user-attachments/assets/ce7979fb-f591-4fc6-a5df-e372455a0041
 
 Almacenamiento cifrado de credenciales para prevenir filtraciones y robos de identidad.
 
@@ -148,7 +152,7 @@ Almacenamiento cifrado de credenciales para prevenir filtraciones y robos de ide
 
 19.VPN:
 
-https://github.com/user-attachments/assets/6db09aea-386c-4e61-b2b0-a417ca815b25
+https://github.com/user-attachments/assets/ef94785e-c2bc-4b8e-970a-bd0ee7908075
 
 Túnel de red privada virtual operativo para cifrar todo el tráfico saliente de forma segura.
 
@@ -156,7 +160,7 @@ Túnel de red privada virtual operativo para cifrar todo el tráfico saliente de
 
 20.Navegadores seguros:
 
-https://github.com/user-attachments/assets/6d216597-5331-4959-9c31-a1feafac3d72
+https://github.com/user-attachments/assets/63eaa983-aa41-40d9-aeae-5e1282cd23a4
 
 Bloqueo de rastreadores y refuerzo de la privacidad durante la navegación web.
 
@@ -164,7 +168,7 @@ Bloqueo de rastreadores y refuerzo de la privacidad durante la navegación web.
 
 21.Comprobador de filtraciones:
 
-https://github.com/user-attachments/assets/1f347534-0527-4885-a6d6-80f569dd397b
+https://github.com/user-attachments/assets/d25dd65d-4702-42a6-858f-86cc5c921dd9
 
 Consulta cruzada en bases de datos externas para comprobar si las cuentas de correo han sido vulneradas.
 
@@ -172,7 +176,7 @@ Consulta cruzada en bases de datos externas para comprobar si las cuentas de cor
 
 22.Proteccion de archivos:
 
-https://github.com/user-attachments/assets/3bd6edb1-c809-4f5e-950c-eac5e609fe2f
+https://github.com/user-attachments/assets/0db0aa8d-80b6-47ad-9116-57a313e825c2
 
 Aplicación de restricciones de acceso para impedir modificaciones indebidas en documentos clave.
 
@@ -180,7 +184,7 @@ Aplicación de restricciones de acceso para impedir modificaciones indebidas en 
 
 23.Salud del sistema Categoria:
 
-https://github.com/user-attachments/assets/2e78170e-be9d-4be2-b24e-0a097fcf92ef
+https://github.com/user-attachments/assets/55688e1c-ce7e-4fad-ab08-075df83ab8af
 
 Diagnóstico general del estado operativo de la máquina mediante métricas de rendimiento.
 
@@ -188,7 +192,7 @@ Diagnóstico general del estado operativo de la máquina mediante métricas de r
 
 24.Generador de informes:
 
-https://github.com/user-attachments/assets/f1c0f030-b9f7-4943-8e19-249847bbe504
+https://github.com/user-attachments/assets/513ebb63-f53c-4461-917f-c88c198c021d
 
 Compilación automática de datos de seguridad en un documento listo para exportar.
 
@@ -196,6 +200,6 @@ Compilación automática de datos de seguridad en un documento listo para export
 
 25.Guia Zypher:
 
-https://github.com/user-attachments/assets/52df3e20-c260-4e8d-81f5-e6dd7c887cf3
+https://github.com/user-attachments/assets/6d272569-eb55-4aca-b63f-34c2bfaacefe
 
 Documentación técnica explicativa y manual de uso completo para toda la herramienta.
